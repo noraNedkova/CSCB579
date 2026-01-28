@@ -1,0 +1,11 @@
+C:\Users\loran\Documents\Visual Studio 2022\ImageFramer\ImageFramer\bin\Debug\ImageFramer.exe.config
+C:\Users\loran\Documents\Visual Studio 2022\ImageFramer\ImageFramer\bin\Debug\ImageFramer.exe
+C:\Users\loran\Documents\Visual Studio 2022\ImageFramer\ImageFramer\bin\Debug\ImageFramer.pdb
+C:\Users\loran\Documents\Visual Studio 2022\ImageFramer\ImageFramer\obj\Debug\ImageFramer.csproj.AssemblyReference.cache
+C:\Users\loran\Documents\Visual Studio 2022\ImageFramer\ImageFramer\obj\Debug\ImageFramer.Form1.resources
+C:\Users\loran\Documents\Visual Studio 2022\ImageFramer\ImageFramer\obj\Debug\ImageFramer.Properties.Resources.resources
+C:\Users\loran\Documents\Visual Studio 2022\ImageFramer\ImageFramer\obj\Debug\ImageFramer.csproj.GenerateResource.cache
+C:\Users\loran\Documents\Visual Studio 2022\ImageFramer\ImageFramer\obj\Debug\ImageFramer.csproj.CoreCompileInputs.cache
+C:\Users\loran\Documents\Visual Studio 2022\ImageFramer\ImageFramer\obj\Debug\ImageFramer.exe
+C:\Users\loran\Documents\Visual Studio 2022\ImageFramer\ImageFramer\obj\Debug\ImageFramer.pdb
+C:\Users\loran\Documents\Visual Studio 2022\ImageFramer\ImageFramer\obj\Debug\ImageFramer.exe.config
